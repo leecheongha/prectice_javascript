@@ -1,0 +1,1 @@
+console.log('[Date Output format]');
